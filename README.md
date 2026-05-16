@@ -85,3 +85,66 @@ insurance_claims_agent/
 ├── sample_fnol_4.txt
 ├── output.json
 └── README.md
+```
+
+## How To Run
+
+### 1. Clone The Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/insurance-claims-agent.git
+```
+
+---
+
+### 2. Open Project Folder
+
+```bash
+cd insurance-claims-agent
+```
+
+---
+
+### 3. Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 4. Run The Project
+
+```bash
+python app.py
+```
+
+---
+
+## Testing Different FNOL Files
+
+Inside `app.py`, change this line:
+
+```python
+file_path = "sample_fnol_1.txt"
+```
+
+You can test different sample files:
+
+```python
+file_path = "sample_fnol_2.txt"
+```
+
+```python
+file_path = "sample_fnol_3.txt"
+```
+
+```python
+file_path = "sample_fnol_4.txt"
+```
+
+Then run again:
+
+```bash
+python app.py
+```
