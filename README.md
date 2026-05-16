@@ -92,7 +92,7 @@ insurance_claims_agent/
 ### 1. Clone The Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/insurance-claims-agent.git
+git clone https://github.com/sudeep-sah/Autonomous-Insurance-Claims-Processing-Agent.git
 ```
 
 ---
@@ -100,7 +100,7 @@ git clone https://github.com/YOUR_USERNAME/insurance-claims-agent.git
 ### 2. Open Project Folder
 
 ```bash
-cd insurance-claims-agent
+cd Autonomous-Insurance-Claims-Processing-Agent
 ```
 
 ---
