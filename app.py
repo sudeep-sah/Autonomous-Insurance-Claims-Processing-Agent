@@ -219,7 +219,7 @@ def process_claim(file_path):
 
 if __name__ == "__main__":
 
-    file_path = "sample_fno_1.txt"
+    file_path = "sample_fnol_1.txt"
 
     result = process_claim(file_path)
 
