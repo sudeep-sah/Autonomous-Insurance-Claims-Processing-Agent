@@ -1,0 +1,20 @@
+Policy Number: POL-2026-102
+Policyholder Name: Rahul Sharma
+Effective Dates: Jan 2026 - Dec 2026
+
+Date: 15/05/2026
+Time: 02:00 PM
+Location: Mumbai
+Description: Possible staged accident and inconsistent statements during claim reporting
+
+Claimant: Rahul Sharma
+Third Parties: Amit Verma
+Contact Details: 9988776655
+
+Asset Type: Car
+Asset ID: CAR-2002
+Estimated Damage: 70000
+
+Claim Type: Vehicle
+Attachments: Police Report Attached
+Initial Estimate: 65000

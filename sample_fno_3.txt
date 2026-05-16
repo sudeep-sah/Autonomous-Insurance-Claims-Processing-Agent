@@ -1,0 +1,16 @@
+Policy Number: POL-2026-103
+Policyholder Name: Priya Singh
+
+Date: 20/05/2026
+Time: 08:15 PM
+Location: Hyderabad
+Description: Injury reported after road accident
+
+Claimant: Priya Singh
+Contact Details: 9123456789
+
+Asset Type: Scooter
+Estimated Damage: 30000
+
+Claim Type: Injury
+Initial Estimate: 35000

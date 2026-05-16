@@ -1,0 +1,20 @@
+Policy Number: POL-2026-101
+Policyholder Name: Sudeep Kumar Sah
+Effective Dates: Jan 2026 - Dec 2026
+
+Date: 12/05/2026
+Time: 10:30 AM
+Location: Bengaluru
+Description: Minor bike collision near traffic signal
+
+Claimant: Sudeep Kumar Sah
+Third Parties: None
+Contact Details: 9876543210
+
+Asset Type: Bike
+Asset ID: BIKE-1001
+Estimated Damage: 18000
+
+Claim Type: Vehicle
+Attachments: Images Attached
+Initial Estimate: 20000
